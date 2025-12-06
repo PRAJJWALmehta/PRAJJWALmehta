@@ -1,6 +1,6 @@
 ### Hi there, I'm Prajjwal!
 
-I am an SDE-1 focused on **Backend Architecture** and **Performance Optimization**. 
+Software Engineer focused on intelligent architecture and robust design. I build systems that are easy to extend and hard to break.
 I transition code from "it works" to "it scales."
 
 - I’m currently working on: **Google Docs clone**
