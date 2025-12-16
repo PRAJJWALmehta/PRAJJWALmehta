@@ -19,8 +19,8 @@ I transition code from "it works" to "it scales."
 
 ### GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PRAJJWALmehta&show_icons=true&theme=radical" alt="stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRAJJWALmehta&layout=compact&theme=radical" alt="languages" width="45%" />
 </p>
 
 ---
